@@ -10,5 +10,5 @@
     ],
     "name": "xx快捷版",
     "short_name": "快",
-    "start_url": "."
+    "start_url": "./index.html"
   }
