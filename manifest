@@ -3,12 +3,13 @@
     "display": "fullscreen",
     "icons": [
       {
-        "src": "fox-icon.png",
+        "src": "/ico.png",
         "sizes": "48x48",
         "type": "image/png"
       }
     ],
-    "name": "xx快捷版",
-    "short_name": "快",
-    "start_url": "./index.html"
+    "name": "vue",
+    "short_name": "v",
+    "start_url": "https://hqzh.github.io/pwa.github.io/"
   }
+  
